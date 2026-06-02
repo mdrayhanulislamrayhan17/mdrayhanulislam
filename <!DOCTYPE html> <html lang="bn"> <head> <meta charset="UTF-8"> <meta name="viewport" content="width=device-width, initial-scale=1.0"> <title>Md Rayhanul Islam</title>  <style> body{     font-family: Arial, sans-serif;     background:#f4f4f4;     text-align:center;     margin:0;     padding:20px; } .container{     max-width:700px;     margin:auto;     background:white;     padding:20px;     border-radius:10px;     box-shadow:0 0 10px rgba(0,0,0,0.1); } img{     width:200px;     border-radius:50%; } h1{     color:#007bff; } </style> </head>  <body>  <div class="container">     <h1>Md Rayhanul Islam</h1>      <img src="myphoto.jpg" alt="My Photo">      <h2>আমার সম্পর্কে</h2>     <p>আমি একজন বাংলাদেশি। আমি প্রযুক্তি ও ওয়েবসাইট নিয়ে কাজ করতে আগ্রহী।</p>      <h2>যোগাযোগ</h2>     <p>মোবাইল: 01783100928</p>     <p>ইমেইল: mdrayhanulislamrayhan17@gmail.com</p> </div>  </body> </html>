@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Md Rayhanul Islam</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    text-align:center;
+    margin:0;
+    padding:20px;
+}
+.container{
+    max-width:700px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+img{
+    width:200px;
+    border-radius:50%;
+}
+h1{
+    color:#007bff;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>Md Rayhanul Islam</h1>
+
+    <img src="myphoto.jpg" alt="My Photo">
+
+    <h2>আমার সম্পর্কে</h2>
+    <p>আমি একজন বাংলাদেশি। আমি প্রযুক্তি ও ওয়েবসাইট নিয়ে কাজ করতে আগ্রহী।</p>
+
+    <h2>যোগাযোগ</h2>
+    <p>মোবাইল: 01783100928</p>
+    <p>ইমেইল: mdrayhanulislamrayhan17@gmail.com</p>
+</div>
+
+</body>
+</html>
